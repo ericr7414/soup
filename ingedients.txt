@@ -3,3 +3,4 @@ salt
 seaweed
 tofu
 fish sauce
+rocks
