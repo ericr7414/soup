@@ -2,3 +2,4 @@ water
 salt
 seaweed
 tofu
+fish sauce
