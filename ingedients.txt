@@ -1,2 +1,4 @@
 water
 salt
+seaweed
+tofu
